@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NtpService</string>
+
+    <string-array name="ntp_servers">
+        <item>ntp2.stratum2.ru</item>
+        <item>ntp3.stratum2.ru</item>
+        <item>ntp4.stratum2.ru</item>
+        <item>ntp5.stratum2.ru</item>
+        <item>ntp1.stratum1.ru</item>
+        <item>ntp2.stratum1.ru</item>
+        <item>ntp3.stratum1.ru</item>
+        <item>ntp4.stratum1.ru</item>
+        <item>ntp5.stratum1.ru</item>
+    </string-array>
+</resources>
